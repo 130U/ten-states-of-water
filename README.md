@@ -6,9 +6,9 @@
 
 **Ten landscapes of Alaska and Yellowstone, with water in a different state in each.**
 
-**[View the work](https://www.theodoreoy.com/ten-states-of-water/)**
+**[View the work](https://www.theodoreoy.com/BLOG-Ten-States-of-Water/)**
 
-[![The cover of Ten States of Water: the name Theodore Ouyang written across the sky above a snowy ridge, a sunset horizon, and winding tidewater](.github/readme/cover.jpg)](https://www.theodoreoy.com/ten-states-of-water/)
+[![The cover of Ten States of Water: the name Theodore Ouyang written across the sky above a snowy ridge, a sunset horizon, and winding tidewater](.github/readme/cover.jpg)](https://www.theodoreoy.com/BLOG-Ten-States-of-Water/)
 
 When I think of Alaska and Yellowstone, I think of water. This series is the picture that forms in my mind. It arrives as tide, stands as a glacier, lies frozen on a lake, falls through a canyon, and leaves a hot spring as steam.
 
@@ -16,7 +16,7 @@ When I think of Alaska and Yellowstone, I think of water. This series is the pic
 
 Water is the softest thing in these landscapes and the one that made them. The glacier carves the fjord, the river opens the canyon, the tide draws its channels through the mud, and the spring lays down its own terraces. I built the series on that reversal, so every hard shape in it can be traced to the water in the frame.
 
-[![The ten works in two rows of five, seven of Alaska followed by three of Yellowstone](.github/readme/ten-works.jpg)](https://www.theodoreoy.com/ten-states-of-water/)
+[![The ten works in two rows of five, seven of Alaska followed by three of Yellowstone](.github/readme/ten-works.jpg)](https://www.theodoreoy.com/BLOG-Ten-States-of-Water/)
 
 ## The Logic of the Series
 
