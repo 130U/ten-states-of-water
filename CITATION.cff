@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Ten States of Water"
+version: "V_202611"
+date-released: 2026-11-19
+abstract: "Ten landscapes of Alaska and Yellowstone, with water in a different state in each. The site, the ten images, and a reading of each."
+authors:
+  - family-names: Ouyang
+    given-names: "Letao (Theodore)"
+repository-code: "https://github.com/130U/BLOG-Ten-States-of-Water"
+url: "https://www.theodoreoy.com/BLOG-Ten-States-of-Water/"
+keywords:
+  - landscape
+  - Alaska
+  - Yellowstone
+  - water
+  - gallery
+  - static site
+preferred-citation:
+  type: website
+  title: "Ten States of Water"
+  authors:
+    - family-names: Ouyang
+      given-names: "Letao (Theodore)"
+  year: 2026
+  url: "https://www.theodoreoy.com/BLOG-Ten-States-of-Water/"
